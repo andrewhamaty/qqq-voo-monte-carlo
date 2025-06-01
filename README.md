@@ -7,3 +7,5 @@
 ## To Run:
 * This project utilizes `uv` for managing dependencies and running the notebook.
 * If you have uv installed, you can run `uv run main.py` in your terminal and uv will automatically download all dependencies and run the file
+* Uploading the code in notebook format was not possible due to GitHub contraints on file sizes.
+	* Each `#%%` represents a new cell
