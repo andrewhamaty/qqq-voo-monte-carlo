@@ -9,7 +9,6 @@ import yfinance as yf
 from utils import *
 
 #%% GET DATA
-
 tickers = ['QQQ', 'VOO']
 start_date = '2015-01-01' # let's get around 10 years worth of data
 TODAY = dt.date.today()
